@@ -13,7 +13,7 @@ Script to compute equilibrium conditions for acid-base reactions
 
 <img src="https://latex.codecogs.com/svg.latex?y=x^2">
 
-<img src="https://latex.codecogs.com/svg.latex?y=\partial;2">
+<img src="https://latex.codecogs.com/svg.latex?y=\partial{2}">
 
 <img src="https://latex.codecogs.com/svg.latex?y=\frac{2}{x}">
 
