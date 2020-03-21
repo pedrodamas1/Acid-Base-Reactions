@@ -1,6 +1,7 @@
 # Acid-Base-Reactions
 Script to compute equilibrium conditions for acid-base reactions
 
+In chemistry, often you have acid-base reactions that reach an equilibrium.
 
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
